@@ -58,7 +58,39 @@ A structured CRM backend to manage leads, calls, and follow-ups efficiently
 https://github.com/shivansh-singh05/TechQRT.TelecallerCRM.Web_App
 
 
+💼 Flagship Project
 
+🚀 TechQRT CMS Platform
+
+🧠 Problem:
+Managing blogs, services, careers, and customer interactions separately leads to inefficiency, poor SEO, and lack of centralized control
+
+⚙️ Solution:
+A modular CMS platform to manage blogs, services, job postings, applications, reviews, and partnerships — all from a single admin dashboard
+
+💡 Features:
+
+- 📝 Blog Management (CRUD + Category + Slug-based SEO)
+- 🛠️ Service Management (Service + Service Category)
+- 💼 Career Module (Job Posting + Job Application System)
+- ⭐ Customer Reviews (Approval-based testimonials)
+- 🤝 Partnerships (Client showcase with logos)
+- 📄 Static Pages (About Us, Contact Us with message storage)
+- 🆕 Recent Content (Latest blogs, updates)
+- 📂 Category Filtering (Blog & Service by slug)
+
+🧱 Architecture:
+
+- Controller → Service → Repository → Database
+- Clean Architecture
+- Separation of Concerns
+- Scalable Design
+
+🛠️ Tech:
+.NET Core MVC | Dapper | SQL Server | Stored Procedures | Layered Architecture
+
+👉 Repository:
+https://github.com/shivansh-singh05/techqrt-cms
 
 
 
