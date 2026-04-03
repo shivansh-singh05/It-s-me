@@ -51,47 +51,12 @@ A structured CRM backend to manage leads, calls, and follow-ups efficiently
 - 📅 Follow-up Management
 - 📊 Lead Tracking System
 
+
 🛠️ Tech:
 .NET Core Web API | SQL Server | Clean Architecture
 
 👉 Repository:
 https://github.com/shivansh-singh05/TechQRT.TelecallerCRM.Web_App
-
-
-💼 Flagship Project
-
-🚀 TechQRT CMS Platform
-
-🧠 Problem:
-Managing blogs, services, careers, and customer interactions separately leads to inefficiency, poor SEO, and lack of centralized control
-
-⚙️ Solution:
-A modular CMS platform to manage blogs, services, job postings, applications, reviews, and partnerships — all from a single admin dashboard
-
-💡 Features:
-
-- 📝 Blog Management (CRUD + Category + Slug-based SEO)
-- 🛠️ Service Management (Service + Service Category)
-- 💼 Career Module (Job Posting + Job Application System)
-- ⭐ Customer Reviews (Approval-based testimonials)
-- 🤝 Partnerships (Client showcase with logos)
-- 📄 Static Pages (About Us, Contact Us with message storage)
-- 🆕 Recent Content (Latest blogs, updates)
-- 📂 Category Filtering (Blog & Service by slug)
-
-🧱 Architecture:
-
-- Controller → Service → Repository → Database
-- Clean Architecture
-- Separation of Concerns
-- Scalable Design
-
-🛠️ Tech:
-.NET Core MVC | Dapper | SQL Server | Stored Procedures | Layered Architecture
-
-👉 Repository:
-https://github.com/shivansh-singh05/techqrt-cms
-
 
 
 ## 🏗️ Architecture
@@ -101,6 +66,79 @@ Controller → Service → Repository → Database
 - Clean Architecture
 - Separation of Concerns
 - Scalable API Design
+
+
+
+
+## 💼 Flagship Projects
+
+### 🚀 TechQRT CMS Platform
+
+🧠 Problem:
+Managing blogs, services, careers, and customer interactions across different systems leads to:
+- Data fragmentation  
+- Poor SEO performance  
+- Operational inefficiency  
+
+⚙️ Solution:
+Designed and built a **modular CMS platform** that centralizes content, hiring, and customer engagement into a single scalable system.
+
+💡 Core Modules:
+
+- 📝 Blog Engine  
+  - CRUD + Category + SEO-friendly slug routing  
+  - Optimized for discoverability  
+
+- 🛠️ Service Management  
+  - Service + Category structure  
+  - Dynamic content rendering  
+
+- 💼 Career System  
+  - Job Posting + Application tracking  
+  - Admin-side candidate management  
+
+- ⭐ Review System  
+  - Approval-based testimonials  
+  - Trust-building UI  
+
+- 🤝 Partnership Module  
+  - Client showcase with branding  
+
+- 📄 Static Content Engine  
+  - About Us / Contact Us  
+  - Message storage system  
+
+- 📊 Smart Content Delivery  
+  - Latest updates + filtered content via slug  
+
+---
+
+🧱 Architecture:
+
+- Controller → Service → Repository → Database  
+- Clean Architecture principles  
+- Separation of Concerns  
+- Scalable & maintainable backend design  
+
+---
+
+🛠️ Tech Stack:
+
+.NET Core MVC | Dapper | SQL Server | Stored Procedures  
+
+---
+
+🚀 Impact:
+
+- Centralized multiple business operations into one system  
+- Improved content management efficiency  
+- Built SEO-friendly dynamic routing system  
+
+---
+
+👉 Repository:  
+https://github.com/shivansh-singh05/techqrt-cms
+
 
 
 
