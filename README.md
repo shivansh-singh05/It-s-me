@@ -15,16 +15,17 @@
 
 
 
+
 ## 🧠 What I Do
 
-I build backend systems that actually solve business problems.
+I design and build **backend systems that solve real business problems**, not just APIs.
 
-- 📊 Design scalable APIs using .NET Core
-- 🧱 Apply Clean Architecture in real projects
-- ⚙️ Structure messy business logic into clean systems
-- 🚀 Focus on performance + maintainability
+- 📊 Architect scalable REST APIs using .NET Core  
+- 🧱 Apply Clean Architecture & separation of concerns  
+- ⚙️ Transform complex business logic into structured systems  
+- 🚀 Optimize for performance, maintainability, and real-world usage  
 
-
+---
 
 ## ⚙️ Tech Stack
 
@@ -32,115 +33,120 @@ I build backend systems that actually solve business problems.
   <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver,git,github,postman,visualstudio" />
 </p>
 
-
-
-
-
-## 💼 Flagship Project
-
-### 🚀 Telecaller CRM System
-
-🧠 Problem:
-Manual lead tracking = missed follow-ups + lost revenue
-
-⚙️ Solution:
-A structured CRM backend to manage leads, calls, and follow-ups efficiently
-
-💡 Features:
-- 📞 Call Logging
-- 📅 Follow-up Management
-- 📊 Lead Tracking System
-
-
-🛠️ Tech:
-.NET Core Web API | SQL Server | Clean Architecture
-
-👉 Repository:
-https://github.com/shivansh-singh05/TechQRT.TelecallerCRM.Web_App
-
-
-## 🏗️ Architecture
-
-Controller → Service → Repository → Database
-
-- Clean Architecture
-- Separation of Concerns
-- Scalable API Design
-
-
-
+---
 
 ## 💼 Flagship Projects
 
-### 🚀 TechQRT CMS Platform
-
-🧠 Problem:
-Managing blogs, services, careers, and customer interactions across different systems leads to:
-- Data fragmentation  
-- Poor SEO performance  
-- Operational inefficiency  
-
-⚙️ Solution:
-Designed and built a **modular CMS platform** that centralizes content, hiring, and customer engagement into a single scalable system.
-
-💡 Core Modules:
-
-- 📝 Blog Engine  
-  - CRUD + Category + SEO-friendly slug routing  
-  - Optimized for discoverability  
-
-- 🛠️ Service Management  
-  - Service + Category structure  
-  - Dynamic content rendering  
-
-- 💼 Career System  
-  - Job Posting + Application tracking  
-  - Admin-side candidate management  
-
-- ⭐ Review System  
-  - Approval-based testimonials  
-  - Trust-building UI  
-
-- 🤝 Partnership Module  
-  - Client showcase with branding  
-
-- 📄 Static Content Engine  
-  - About Us / Contact Us  
-  - Message storage system  
-
-- 📊 Smart Content Delivery  
-  - Latest updates + filtered content via slug  
-
 ---
+
+### 🚀 Telecaller CRM System
+
+🧠 Problem:  
+Manual lead tracking results in missed follow-ups, poor visibility, and revenue loss  
+
+⚙️ Solution:  
+Developed a **full-stack CRM system** to manage leads, calls, and follow-ups with a structured backend and responsive frontend  
+
+💡 Key Features:
+- 📞 Call Logging System  
+- 📅 Follow-up Scheduling  
+- 📊 Lead Lifecycle Management  
+- 📈 Dashboard-ready structured data  
 
 🧱 Architecture:
-
+- Clean Architecture (Backend)  
 - Controller → Service → Repository → Database  
-- Clean Architecture principles  
-- Separation of Concerns  
-- Scalable & maintainable backend design  
+- RESTful API consumed by Angular frontend  
 
----
-
-🛠️ Tech Stack:
-
-.NET Core MVC | Dapper | SQL Server | Stored Procedures  
-
----
+🛠️ Tech:
+.NET Core Web API | SQL Server | Angular  
 
 🚀 Impact:
+- Improved lead tracking efficiency  
+- Enabled structured workflow for telecallers  
+- Built scalable API + UI separation  
 
-- Centralized multiple business operations into one system  
-- Improved content management efficiency  
-- Built SEO-friendly dynamic routing system  
+👉 Repository:  
+https://github.com/shivansh-singh05/TechQRT.TelecallerCRM.Web_App  
 
 ---
 
+### 🚀 TechQRT CMS Platform
+
+🧠 Problem:  
+Managing blogs, services, careers, and customer interactions across multiple systems leads to inefficiency, poor SEO, and lack of centralized control  
+
+⚙️ Solution:  
+Built a **modular CMS platform** that centralizes content management, hiring workflows, and customer engagement into a single scalable system  
+
+💡 Core Modules:
+- 📝 Blog Engine (CRUD + SEO Slug Routing)  
+- 🛠️ Service Management (Service + Category)  
+- 💼 Career System (Jobs + Applications)  
+- ⭐ Reviews (Approval-based testimonials)  
+- 🤝 Partnerships (Client showcase)  
+- 📄 Static Pages (About / Contact with message storage)  
+- 📊 Smart Content Filtering via Slugs  
+
+🧱 Architecture:
+- Clean Architecture  
+- Layered Design (Controller → Service → Repository)  
+- Optimized query handling using Dapper  
+
+🛠️ Tech:
+.NET Core MVC | Dapper | SQL Server | Stored Procedures  
+
+🚀 Impact:
+- Unified multiple business modules into one platform  
+- Improved content handling and SEO capability  
+- Built scalable and maintainable backend structure  
+
 👉 Repository:  
-https://github.com/shivansh-singh05/techqrt-cms
+https://github.com/shivansh-singh05/techqrt-cms  
+
+---
 
 
+### 🚀 Portfolio CMS (Next-Gen Personal System)
 
+🧠 Problem:  
+Static portfolios lack flexibility, scalability, and real-time content management  
+
+⚙️ Solution:  
+Built a **full-stack dynamic portfolio system** with API-driven backend and Angular frontend for real-time content updates  
+
+💡 Key Features:
+- 📂 Project Management (problem + solution mapping)  
+- 🎓 Education & Experience Modules  
+- 🧠 Skills with icons & categorization  
+- 🏆 Achievements & highlights  
+- 🖼️ Dynamic media/image handling  
+- ⚡ API-driven UI rendering  
+
+🧱 Architecture:
+- Clean Architecture (Backend)  
+- RESTful APIs with modular design  
+- Angular consuming APIs for dynamic UI  
+
+🛠️ Tech:
+.NET 10 Web API | Entity Framework Core | SQL Server | Angular  
+
+🚀 Impact:
+- Converted static portfolio into dynamic system  
+- Enabled real-time updates without code changes  
+- Built reusable backend + frontend architecture  
+
+👉 Repository:  
+(Add your repo link here)  
+
+---
+
+## 🏗️ Engineering Mindset
+
+- 🧠 Think in systems, not just endpoints  
+- 🧱 Build maintainable and scalable architectures  
+- ⚙️ Focus on clean code + business logic clarity  
+- 📈 Continuously improving toward microservices & system design  
 
 
 
