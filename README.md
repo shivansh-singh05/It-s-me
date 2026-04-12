@@ -30,9 +30,8 @@ I design and build **backend systems that solve real business problems**, not ju
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver,git,github,postman,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver,angular,git,github,postman,visualstudio,vscode" />
 </p>
-
 ---
 
 ## 💼 Flagship Projects
@@ -150,11 +149,16 @@ https://github.com/shivansh-singh05/shivansh-portfolio-cms-backend
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-singh05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-singh05&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-singh05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Shivansh's%20GitHub%20Stats" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-singh05&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-singh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 
