@@ -176,6 +176,4 @@ https://github.com/shivansh-singh05/shivansh-portfolio-cms-backend
   </a>
 </p>
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/shivansh-singh05/shivansh-singh05/blob/output/github-contribution-grid-snake.svg)
