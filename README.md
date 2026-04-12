@@ -67,7 +67,7 @@ Developed a **full-stack CRM system** to manage leads, calls, and follow-ups wit
 - Built scalable API + UI separation  
 
 👉 Repository:  
-https://github.com/shivansh-singh05/TechQRT.TelecallerCRM.Web_App  
+https://github.com/shivansh-singh05/techqrt-telecaller-crm-backend  
 
 ---
 
@@ -102,7 +102,7 @@ Built a **modular CMS platform** that centralizes content management, hiring wor
 - Built scalable and maintainable backend structure  
 
 👉 Repository:  
-https://github.com/shivansh-singh05/techqrt-cms  
+https://github.com/shivansh-singh05/shivansh-techqrt-cms-fullstack 
 
 ---
 
@@ -137,7 +137,7 @@ Built a **full-stack dynamic portfolio system** with API-driven backend and Angu
 - Built reusable backend + frontend architecture  
 
 👉 Repository:  
-(Add your repo link here)  
+https://github.com/shivansh-singh05/shivansh-portfolio-cms-backend
 
 ---
 
