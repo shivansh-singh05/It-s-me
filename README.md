@@ -149,29 +149,16 @@ https://github.com/shivansh-singh05/shivansh-portfolio-cms-backend
 
 
 
-## 📊 GitHub Performance Dashboard
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-singh05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Shivansh's%20GitHub%20Stats" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-singh05&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-singh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
-</p>
-
-
-
+- 🚀 Actively building real-world .NET applications  
+- 📈 Consistent learning in system design  
+- 🔥 Focused on scalable backend development  
 
 
 ## 🔥 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivansh-singh05&theme=react-dark)](https://github.com/shivansh-singh05)
-
-
-
-
 
 
 ## 🎯 Current Focus
@@ -181,9 +168,6 @@ https://github.com/shivansh-singh05/shivansh-portfolio-cms-backend
 - Real-world API Optimization
 
 
-
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -191,12 +175,6 @@ https://github.com/shivansh-singh05/shivansh-portfolio-cms-backend
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
-
-
-
-
-
 
 ## 🐍 Contribution Snake
 
