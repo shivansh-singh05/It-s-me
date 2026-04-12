@@ -177,7 +177,7 @@ https://github.com/shivansh-singh05/techqrt-cms
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="www.linkedin.com/in/shivansh-singh-72b294258">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
